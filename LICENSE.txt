@@ -1,3 +1,7 @@
-This work is licensed under the Creative Commons Attribution 3.0 United States License.
+http://www.metoffice.gov.uk/about-us/legal/
 
-To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+The Met Office retains all ownership and other rights in the Met Office weather gadgets, RSS feeds and associated data feeds, and any and all Met Office logos, images and trademarks used in connection with them. 
+
+"Met Office" and the Met Office device and logos are registered trademarks in the United Kingdom, the European Union, the United States of America and other countries. These trademarks are the property of the Secretary of State for Business, Innovation and Skills of the United Kingdom of Great Britain and Northern Ireland.
+
+The Met Office reserves the right to discontinue providing any or all of the RSS feeds and/or associated data feeds at any time and to require you to cease displaying, distributing or otherwise using any of them for any reason including, without limitation, your breach of any provision of these Terms of Use.
